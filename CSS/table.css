@@ -1,0 +1,16 @@
+table {
+    display: inline;
+}
+
+thead th{
+	background-color: #006699;
+	color: white;
+	padding: 5px;
+}
+
+td {
+    text-align: center;
+    border: 1px solid black;
+}
+
+
